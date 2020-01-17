@@ -16,3 +16,6 @@ I hope to expand it to include more JS environments, as well as other languages 
 **Note: Built solely for my own use, so may not work in testing on other devices that haven't been configured accordingly.**
 
 ![Image of script in action](screenshot2.png)
+
+## Credits:
+Gitignore master template taken from [here](https://github.com/github/gitignore).
